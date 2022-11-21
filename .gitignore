@@ -5,13 +5,7 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
-
-# database
-/prisma/db.sqlite
-/prisma/db.sqlite-journal
-
+README-t3.md
 # next.js
 /.next/
 /out/
@@ -33,9 +27,6 @@ yarn-error.log*
 # local env files
 .env
 .env*.local
-
-# vercel
-.vercel
 
 # typescript
 *.tsbuildinfo
